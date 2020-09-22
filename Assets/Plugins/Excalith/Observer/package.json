@@ -1,0 +1,21 @@
+{
+  "name": "com.excalith.unity-observer",
+  "displayName": "Unity Observer",
+  "version": "0.9.1",
+  "unity": "2017.4",
+  "description": "An editor window to invoke methods, observe values and change them on editor play mode.",
+  "author": {
+    "name": "Can Cellek",
+    "url": "https://cancellek.com"
+  },
+  "keywords": [ "editor", "window", "debug", "log", "observer" ],
+  "category": "editor extensions",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Sample Scene",
+      "description": "Scene with Unity Observer package usage examples",
+      "path": "Samples~/DemoScene"
+    }
+  ]
+}

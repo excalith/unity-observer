@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Excalith.Observer.Examples
+namespace Excalith.Observer.Samples
 {
-    public class ObserverExamples : MonoBehaviour
+    public class ObserverSamples : MonoBehaviour
     {
         private string m_StringTest = "Test Value";
         private bool m_BoolTest = true;

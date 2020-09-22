@@ -3,11 +3,6 @@
 
 An editor window to invoke methods, observe values and change them on editor play mode.
 
-![](screenshot.png)
-
-### Notes
-- Should work with Unity 2017+
-- Works with both Dark and Light themes
 
 ## Usage
 - You can open Observer window through `Window > Tools > Observer`
