@@ -9,6 +9,12 @@ An editor window to invoke methods, observe values and change them on editor pla
 - Should work with Unity 2018.3 or later
 - Works with both Dark and Light themes
 
+## Installation
+There are 2 ways to install the package
+1. You can install via git url by adding this entry in your manifest.json
+`https://github.com/excalith/unity-observer.git#upm`
+2. You can clone or download this repository and add the `Assets/Observer` folder into your projects `Assets` folder.
+
 ## Usage
 - You can open Observer window through `Window > Tools > Observer`
 - Requires `Excalith.Observer` namespace
