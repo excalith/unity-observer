@@ -1,8 +1,8 @@
 {
   "name": "com.excalith.unity-observer",
   "displayName": "Unity Observer",
-  "version": "0.9.1",
-  "unity": "2017.4",
+  "version": "1.0.0",
+  "unity": "2018.3",
   "description": "An editor window to invoke methods, observe values and change them on editor play mode.",
   "author": {
     "name": "Can Cellek",

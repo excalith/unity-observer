@@ -3,6 +3,8 @@
 
 An editor window to invoke methods, observe values and change them on editor play mode.
 
+[GitHub Project Link](https://github.com/excalith/unity-observer)
+
 
 ## Usage
 - You can open Observer window through `Window > Tools > Observer`
@@ -124,15 +126,3 @@ Creates an empty space
 ```C
 Observer.Seperator("Update Examples");
 ```
-
-## Contribution
-Please feel free to contribute!
-
-- Create issues for both issues and feature requests
-- Create pull requests to develop for anything listed in issues
-    - Please use prefixes such as Add, Fix, Update etc. before your commit message
-    - Please be brief about your commit message
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.

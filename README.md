@@ -6,7 +6,7 @@ An editor window to invoke methods, observe values and change them on editor pla
 ![](screenshot.png)
 
 ### Notes
-- Should work with Unity 2017+
+- Should work with Unity 2018.3 or later
 - Works with both Dark and Light themes
 
 ## Usage
